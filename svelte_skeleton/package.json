@@ -1,0 +1,29 @@
+{
+  "name": "~TODO~",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "svelte-kit dev --host 127.0.0.1 --port 5000",
+    "build": "svelte-kit build",
+    "preview": "svelte-kit preview"
+  },
+  "devDependencies": {
+    "@smui/button": "^4.2.0",
+    "@smui/card": "^4.2.0",
+    "@smui/checkbox": "^4.2.0",
+    "@smui/dialog": "^4.2.0",
+    "@smui/select": "^4.2.0",
+    "@smui/textfield": "^4.2.0",
+    "@sveltejs/kit": "next",
+    "svelte": "^3.34.0"
+  },
+  "type": "module",
+  "dependencies": {
+    "@fontsource/fira-mono": "^4.2.2",
+    "@lukeed/uuid": "^2.0.0",
+    "@smui/form-field": "^4.2.0",
+    "@smui/list": "^4.2.0",
+    "@smui/snackbar": "^4.2.0",
+    "@smui/top-app-bar": "^4.2.0",
+    "cookie": "^0.4.1"
+  }
+}
