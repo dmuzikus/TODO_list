@@ -15,3 +15,5 @@
 				npm install
 				npm run dev
 ```
+## Maket
+<img src="https://github.com/dmuzikus/my_screenshots/blob/main/Project_maket.png" alt="">
